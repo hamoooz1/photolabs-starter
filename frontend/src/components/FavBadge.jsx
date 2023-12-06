@@ -3,7 +3,7 @@ import FavIcon from './FavIcon';
 
 import '../styles/FavBadge.scss';
 
-const FavBadge = ({ isFavPhotoExist, notifications, onClick }) => {
+const FavBadge = ({ notifications }) => {
 
 const notification = () => {
 
@@ -16,7 +16,7 @@ const notification = () => {
 
   return (
     <div className='fav-badge'>
-      <FavIcon selected={notification()} displayAlert={notification()}/>
+      <FavIcon selected={true} displayAlert={notification()}/>
     </div>
   ) 
 };

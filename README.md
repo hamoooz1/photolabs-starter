@@ -7,8 +7,8 @@ PhotoLabs is a single page React app that provided a practical environment for m
 
 ## Screenshots
 
-!["Shows the homepage of photoLabs"](file:///C:/Users/Hamza%20Kaderi/OneDrive/%D8%A7%D9%84%D8%B5%D9%88%D8%B1/photoLabs-homepage.png)
-!["Shows what happens when you select a specific photo"](file:///C:/Users/Hamza%20Kaderi/OneDrive/%D8%A7%D9%84%D8%B5%D9%88%D8%B1/photoLabs-modal.png)
+!["Shows the homepage of photoLabs"](./docs/photoLabs-homepage.png)
+!["Shows what happens when you select a specific photo"](./docs/photoLabs-modal.png)
 
 ## Setup
 
